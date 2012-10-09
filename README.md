@@ -7,6 +7,10 @@ CodeIgniter form_validation addition which allows for setting form error prefix 
 * Copy ```libraries/MY_Form_validation.php``` from to your ```application/libraries``` folder
 * Copy ```config/form_validation.php``` to your ```application/config``` folder, or if you have an existing config there just copy and paste the new stuff
 
+## Usage
+
+* Edit ```config/form_validation.php``` with your preferred prefix and suffix for each error.
+
 ## Change Log
 
 **1.0.0** 
